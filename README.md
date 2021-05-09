@@ -13,7 +13,8 @@ Python libraries/tools: Standard Python libraries (Requests, Pandas), Plotly, St
 
 Instructions: Copy and run the script in your local machine. 
 
-![alt tag](https://github.com/andrewliew86/KOL-mapping-with-Shiny-app/blob/main/UI_picture.PNG)
+![alt tag](https://github.com/andrewliew86/COVID-19-vaccines-dashboard/blob/master/fig1.PNG)
+![alt tag](https://github.com/andrewliew86/COVID-19-vaccines-dashboard/blob/master/fig2.PNG)
 
 
 Data source: Our World in Data
