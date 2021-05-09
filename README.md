@@ -11,7 +11,9 @@ each time the app is refreshed - providing up-to-date information on vaccines to
 
 Python libraries/tools: Standard Python libraries (Requests, Pandas), Plotly, Streamlit
 
-Instructions: Copy and run the script in your local machine. 
+Instructions: Copy and run the script in your local machine. Run the streamlit app as per usual instructions. You will see the app appear in your browser (see figures below). Select your country of choice and wait a few seconds for the chart to load. Click on links to PubMed article if you are interested in the abstract and full text of the papers listed below.
+
+
 
 ![alt tag](https://github.com/andrewliew86/COVID-19-vaccines-dashboard/blob/master/fig1.PNG)
 ![alt tag](https://github.com/andrewliew86/COVID-19-vaccines-dashboard/blob/master/fig2.PNG)
